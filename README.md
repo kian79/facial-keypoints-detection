@@ -1,4 +1,4 @@
-# facial-key-feature-detection
+# Facial Key Feature Detection
 A project based on a Kaggle competition to detect the location of the key features of human face.
 
 ## Introduction
